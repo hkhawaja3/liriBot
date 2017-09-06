@@ -1,1 +1,28 @@
 
+package.json
+
+
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Initializing a package for my project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkhawaja3/liriBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkhawaja3/liriBot/issues"
+  },
+  "homepage": "https://github.com/hkhawaja3/liriBot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  }
+}
